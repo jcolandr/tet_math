@@ -7,6 +7,9 @@ Author: Joe Colandro
 
 Instructions: 
 
-1. In your terminal type: python tetration.py 
+1. In your terminal type: 
+  1. git clone https://github.com/jcolandr/tet_math.git 
+  2. cd tet_math
+  3. python tetration.py 
 2. Advance by pressing return key
 3. Enjoy the tutorial!

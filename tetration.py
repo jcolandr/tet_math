@@ -2,7 +2,11 @@ import math
 import locale
 locale.setlocale(locale.LC_ALL, 'en_US')
 
+# Author: Joe Colandro
+# twitter: @JoeColandro
 
+print ""
+print ""
 print "Welcome to an Explanation of Tetration"
 print ""
 raw_input('Press Enter to Advance')
@@ -133,7 +137,8 @@ raw_input()
 print "This number is to big for anyone to understand"
 raw_input()
 print "If we put one digit on every atom in the universe, we would run out of atoms before making even the most"
-print "miniscule amount of progress. No matter how bad you want to know the answer, the truth is, you can't"
+print "miniscule amount of progress. That means the number has many times more than 10^80 digits!" 
+print "No matter how bad you want to know the answer, the truth is, you can't"
 raw_input()
 print "The End"
 raw_input()
